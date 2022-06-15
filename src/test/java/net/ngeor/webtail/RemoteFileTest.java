@@ -2,7 +2,7 @@ package net.ngeor.webtail;
 
 import org.junit.Test;
 
-import static org.junit.Assert.*;
+import static org.junit.Assert.assertEquals;
 
 /**
  * Unit test for {@link RemoteFile}.
